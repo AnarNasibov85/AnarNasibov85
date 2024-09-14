@@ -1,4 +1,5 @@
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![AI](https://upload.wikimedia.org/wikipedia/commons/8/8d/Artificial_intelligence_Icon.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Anar</h1>
